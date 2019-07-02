@@ -21,7 +21,7 @@ Traduci l'intera colonna di un file excel.
 * Riavviare il computer;
 * Scaricare questo repository in formato zip cliccando sul bottone verde 'Clone or Download';
 * Estrarre il file zip in una cartella;
-* Eseguire il file `v4id-sdm-win-setup` per installare automaticamente i moduli di Python richiesti.
+* Eseguire il file `traduttore-colonna-from-excel-setup` per installare automaticamente i moduli di Python richiesti.
 * Ora potete lanciare `traduttore-colonna-from-excel.bat`
 
 Enjoy :)
