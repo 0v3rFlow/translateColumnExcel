@@ -1,0 +1,1 @@
+python traduttore-colonna-from-excel.py
