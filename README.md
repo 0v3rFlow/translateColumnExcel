@@ -33,6 +33,9 @@ git clone https://github.com/0v3rFlow/translateColumnExcel.git
 cd translateColumnExcel
 pip install -r requirements.txt
 ```
+
+Enjoy :)
+
 # Utilizzo
 
 ## Premessa
@@ -165,4 +168,4 @@ Traduci la prima colonna del file excel da 'it' a xx. Verrà utilizzato Google T
 }
 ```
 
-## FINE!
+# FINE!
