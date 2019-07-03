@@ -78,8 +78,8 @@ if __name__ == "__main__":
     f = input(const02)
     l = input(const03)
 
-    if not (args.l):
-        args.l = 'en'
+    if not (l):
+        l = 'en'
 
     main_menu(f, l)
 
